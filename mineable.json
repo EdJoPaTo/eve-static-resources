@@ -1,0 +1,75 @@
+[ {
+  "name": "Veldspar",
+  "id": 518,
+  "maxsecurity": 1.0
+}, {
+  "name": "Scordite",
+  "id": 519,
+  "maxsecurity": 1.0
+}, {
+  "name": "Pyroxeres",
+  "id": 515,
+  "maxsecurity": 0.9
+}, {
+  "name": "Plagioclase",
+  "id": 516,
+  "maxsecurity": 0.9
+}, {
+  "name": "Omber",
+  "id": 526,
+  "maxsecurity": 0.7
+}, {
+  "name": "Kernite",
+  "id": 523,
+  "maxsecurity": 0.7
+}, {
+  "name": "Jaspet",
+  "id": 529,
+  "maxsecurity": 0.4
+}, {
+  "name": "Hedbergite",
+  "id": 527,
+  "maxsecurity": 0.2
+}, {
+  "name": "Hemorphite",
+  "id": 528,
+  "maxsecurity": 0.2
+}, {
+  "name": "Arkonor",
+  "id": 512,
+  "maxsecurity": 0.0
+}, {
+  "name": "Bistot",
+  "id": 514,
+  "maxsecurity": 0.0
+}, {
+  "name": "Spodumain",
+  "id": 517,
+  "maxsecurity": 0.0
+}, {
+  "name": "Crokite",
+  "id": 521,
+  "maxsecurity": 0.0
+}, {
+  "name": "Dark Ochre",
+  "id": 522,
+  "maxsecurity": 0.0
+}, {
+  "name": "Gneiss",
+  "id": 525,
+  "maxsecurity": 0.0
+}, {
+  "name": "Mercoxit",
+  "id": 530,
+  "maxsecurity": 0.0,
+  "deepcore": true
+}, {
+  "name": "Ice",
+  "id": 1855
+}, {
+  "name": "Gas",
+  "id": 983
+}, {
+  "name": "Wormhole Gas",
+  "id": 1859
+} ]
